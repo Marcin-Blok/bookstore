@@ -1,4 +1,4 @@
-package com.marcinblok.bookstore;
+package com.marcinblok.bookstore.catalog.domain;
 
 public class Book {
     Long id;
